@@ -43,14 +43,15 @@ Hidden gaps / active remediation:
 - hypoglycemia treatment: 15-g fast-acting carbohydrate rule, examples, recheck timing, glucagon/IV glucose distinction; needs application retest
 - urinary catheter drainage bag rationale (below bladder, off floor): concept clarified; needs later application check
 - ACS vocabulary and practical distinction: unstable angina vs NSTEMI vs STEMI
+- ECG electrical basics now under remediation: P wave, QRS complex, T wave, ST segment, why acute myocardial injury can shift the ST segment, and why STEMI vs NSTEMI changes urgency/pathway; needs application/recognition retest
 - life-threatening acute chest pain differentials: ACS, aortic dissection, PE, tension pneumothorax, tamponade
-- pleural/pericardial anatomy only to the level needed for emergency recognition
-- emergency initial-assessment terminology: distinguish DRABC preliminary first-aid checks (Danger, Response, then ABC) from WHO Basic Emergency Care's ABCDE framework, where D = Disability and E = Exposure; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need application retest
+- pleural/pericardial anatomy only to the level needed for emergency recognition; pleural fluid/pericardial fluid and exact tamponade location requested for clarification
+- emergency initial-assessment terminology: distinguish DRABC preliminary first-aid checks (Danger, Response, then ABC) from WHO Basic Emergency Care's ABCDE framework, where D = Disability and E = Exposure; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need repeated scenario-based application, not assessment-only recall
 - CPR technique: adult hand placement clarified as center of chest over lower half/lower third of sternum; pediatric hand placement clarified for children about 1 year to puberty as center of chest over sternum using 1 or 2 hands according to child/rescuer size; nipple position is not the target landmark; needs application retest
 - pulse-present respiratory arrest/inadequate breathing: airway opening and BVM rescue ventilation technique now under remediation; distinguish head-tilt/chin-lift from trauma jaw-thrust, understand BVM as a manual bag-valve-mask device, correct seal/chest-rise target and age-specific ventilation rates; needs application retest
 - CPR vs assisted ventilation vs recovery position decision point; major practical priority
 - hypertensive emergency recognition and first nursing actions
-- hypothermia and hyperthermia/heat-stroke recognition and first nursing actions
+- hypothermia and hyperthermia/heat-stroke recognition and first nursing actions; temperature threshold nuance needs reinforcement so heat stroke is recognized clinically rather than by a single number alone
 - temperature interpretation: fever vs high fever vs hyperthermia, with route/context dependence
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
@@ -59,8 +60,14 @@ Hidden gaps / active remediation:
 2. Hypoglycemia treatment and glucagon.
 3. Opioid respiratory depression/naloxone.
 4. Hypertensive emergency, hypothermia, heat stroke.
-5. Acute chest-pain differentiation at nurse-recognition level.
+5. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
 6. ECG acquisition/lead logic and placement.
+
+## Internship rotation readiness plan
+- The learner reports an upcoming 600-hour nursing internship with training across multiple hospital departments and some choice over rotation selection.
+- Current planning goal: prepare department-by-department, with the nearest/first rotation receiving the highest study priority and later rotations prepared sequentially.
+- Proposed broad-readiness rotation order (pending actual hospital availability/mandatory requirements): 1) General/Internal Medicine, 2) General Surgery/postoperative ward, 3) Emergency Department, 4) ICU, 5) Maternity/Obstetrics. If additional rotation time is available, Pediatrics should follow.
+- Current preparation priority if this sequence is accepted: General/Internal Medicine readiness, while continuing cross-cutting DRABC/ABCDE deterioration-response training because those skills apply in every department.
 
 ## Automatic GitHub workflow
 - This GitHub file is the single canonical live progress record.
