@@ -47,6 +47,7 @@ Hidden gaps / active remediation:
 - pleural/pericardial anatomy only to the level needed for emergency recognition
 - emergency initial-assessment terminology: distinguish DRABC preliminary first-aid checks (Danger, Response, then ABC) from WHO Basic Emergency Care's ABCDE framework, where D = Disability and E = Exposure; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need application retest
 - CPR technique: adult hand placement clarified as center of chest over lower half/lower third of sternum; pediatric hand placement clarified for children about 1 year to puberty as center of chest over sternum using 1 or 2 hands according to child/rescuer size; nipple position is not the target landmark; needs application retest
+- pulse-present respiratory arrest/inadequate breathing: airway opening and BVM rescue ventilation technique now under remediation; distinguish head-tilt/chin-lift from trauma jaw-thrust, understand BVM as a manual bag-valve-mask device, correct seal/chest-rise target and age-specific ventilation rates; needs application retest
 - CPR vs assisted ventilation vs recovery position decision point; major practical priority
 - hypertensive emergency recognition and first nursing actions
 - hypothermia and hyperthermia/heat-stroke recognition and first nursing actions
