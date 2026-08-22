@@ -1,5 +1,5 @@
 # Core Nursing Diagnostic — Master Progress / Weakness Map
-Date updated: 2026-08-19
+Date updated: 2026-08-22
 
 ## Tracking rules
 - Correct + confident + correct reasoning: strong/provisional mastery; reduce immediate retesting.
@@ -44,7 +44,7 @@ Hidden gaps / active remediation:
 - ACS vocabulary and practical distinction: unstable angina vs NSTEMI vs STEMI
 - life-threatening acute chest pain differentials: ACS, aortic dissection, PE, tension pneumothorax, tamponade
 - pleural/pericardial anatomy only to the level needed for emergency recognition
-- ABCDE operational interventions for unconscious/semi-conscious patients; major practical priority
+- ABCDE framework: letter meanings (Airway, Breathing, Circulation, Disability, Exposure) clarified; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need application retest
 - CPR vs assisted ventilation vs recovery position decision point; major practical priority
 - hypertensive emergency recognition and first nursing actions
 - hypothermia and hyperthermia/heat-stroke recognition and first nursing actions
