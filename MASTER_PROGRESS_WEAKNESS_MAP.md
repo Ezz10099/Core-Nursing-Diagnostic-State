@@ -56,18 +56,21 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Next diagnostic/retest priorities
-1. DRABC-to-ABCDE operational scenario with unconscious/semi-conscious patient: scene danger, responsiveness, airway opening, breathing check, pulse/circulation, CPR/ventilation/recovery position, glucose, escalation.
+1. Department-specific readiness for the nearest internship rotation now takes priority over full ABCDE remediation.
 2. Hypoglycemia treatment and glucagon.
 3. Opioid respiratory depression/naloxone.
 4. Hypertensive emergency, hypothermia, heat stroke.
 5. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
 6. ECG acquisition/lead logic and placement.
+7. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
 
 ## Internship rotation readiness plan
-- The learner reports an upcoming 600-hour nursing internship with training across multiple hospital departments and some choice over rotation selection.
-- Current planning goal: prepare department-by-department, with the nearest/first rotation receiving the highest study priority and later rotations prepared sequentially.
-- Proposed broad-readiness rotation order (pending actual hospital availability/mandatory requirements): 1) General/Internal Medicine, 2) General Surgery/postoperative ward, 3) Emergency Department, 4) ICU, 5) Maternity/Obstetrics. If additional rotation time is available, Pediatrics should follow.
-- Current preparation priority if this sequence is accepted: General/Internal Medicine readiness, while continuing cross-cutting DRABC/ABCDE deterioration-response training because those skills apply in every department.
+- The learner reports an upcoming 600-hour nursing internship across multiple hospital departments with some choice over rotations.
+- The learner has already completed undergraduate clinical placements in all of the previously discussed departments and additional departments during the BSN; internship rotations are therefore not first exposure to those environments.
+- Current planning goal: prepare department-by-department, with the nearest/first internship rotation receiving highest study priority.
+- Revised recommended order for broad readiness given prior undergraduate exposure: 1) General/Internal Medicine, 2) Emergency Department, 3) General Surgery/postoperative ward, 4) ICU, 5) Maternity/Obstetrics; Pediatrics is a strong alternative/additional rotation depending availability and career goals.
+- Rationale: Internal Medicine remains the best first transition into internship-level responsibility because it concentrates medication administration, IV care, assessment, documentation, common conditions and deterioration recognition. Prior undergraduate exposure allows Emergency to move earlier because basic ward orientation is not completely new; Surgery then consolidates postoperative/wound/drain/procedural care; ICU follows after broader acute-care consolidation.
+- Current preparation priority if this sequence is accepted: General/Internal Medicine readiness. Full ABCDE intervention-library remediation is temporarily deferred until closer to Emergency/critical-care preparation, although essential deterioration recognition remains embedded in all department-specific study.
 
 ## Automatic GitHub workflow
 - This GitHub file is the single canonical live progress record.
