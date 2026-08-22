@@ -36,6 +36,7 @@ Strong/provisional mastery:
 - immediate fall prevention for acute dizziness
 - late-entry documentation integrity
 - sepsis/deterioration recognition
+- correctly recognized the DRABC initial first-aid sequence: Danger, Response, Airway, Breathing, Circulation
 
 Hidden gaps / active remediation:
 - opioid respiratory depression and naloxone: correct by elimination; needs application retest
@@ -44,7 +45,7 @@ Hidden gaps / active remediation:
 - ACS vocabulary and practical distinction: unstable angina vs NSTEMI vs STEMI
 - life-threatening acute chest pain differentials: ACS, aortic dissection, PE, tension pneumothorax, tamponade
 - pleural/pericardial anatomy only to the level needed for emergency recognition
-- ABCDE framework: letter meanings (Airway, Breathing, Circulation, Disability, Exposure) clarified; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need application retest
+- emergency initial-assessment terminology: distinguish DRABC preliminary first-aid checks (Danger, Response, then ABC) from WHO Basic Emergency Care's ABCDE framework, where D = Disability and E = Exposure; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need application retest
 - CPR vs assisted ventilation vs recovery position decision point; major practical priority
 - hypertensive emergency recognition and first nursing actions
 - hypothermia and hyperthermia/heat-stroke recognition and first nursing actions
@@ -52,7 +53,7 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Next diagnostic/retest priorities
-1. ABCDE operational scenario with unconscious/semi-conscious patient: airway opening, breathing check, pulse, CPR/ventilation/recovery position, glucose, escalation.
+1. DRABC-to-ABCDE operational scenario with unconscious/semi-conscious patient: scene danger, responsiveness, airway opening, breathing check, pulse/circulation, CPR/ventilation/recovery position, glucose, escalation.
 2. Hypoglycemia treatment and glucagon.
 3. Opioid respiratory depression/naloxone.
 4. Hypertensive emergency, hypothermia, heat stroke.
