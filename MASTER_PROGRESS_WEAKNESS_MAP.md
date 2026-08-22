@@ -46,6 +46,7 @@ Hidden gaps / active remediation:
 - life-threatening acute chest pain differentials: ACS, aortic dissection, PE, tension pneumothorax, tamponade
 - pleural/pericardial anatomy only to the level needed for emergency recognition
 - emergency initial-assessment terminology: distinguish DRABC preliminary first-aid checks (Danger, Response, then ABC) from WHO Basic Emergency Care's ABCDE framework, where D = Disability and E = Exposure; operational interventions for unconscious/semi-conscious patients remain a major practical priority and need application retest
+- CPR hand placement: adult landmark clarified as heel of hand on the midline center of chest over the lower half to lower third of the sternum; nipple line is only an approximate visual reference and placement is not measured from either nipple; needs application retest with CPR decision-making
 - CPR vs assisted ventilation vs recovery position decision point; major practical priority
 - hypertensive emergency recognition and first nursing actions
 - hypothermia and hyperthermia/heat-stroke recognition and first nursing actions
@@ -53,7 +54,7 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Next diagnostic/retest priorities
-1. DRABC-to-ABCDE operational scenario with unconscious/semi-conscious patient: scene danger, responsiveness, airway opening, breathing check, pulse/circulation, CPR/ventilation/recovery position, glucose, escalation.
+1. DRABC-to-ABCDE operational scenario with unconscious/semi-conscious patient: scene danger, responsiveness, airway opening, breathing check, pulse/circulation, CPR hand placement, CPR/ventilation/recovery position, glucose, escalation.
 2. Hypoglycemia treatment and glucagon.
 3. Opioid respiratory depression/naloxone.
 4. Hypertensive emergency, hypothermia, heat stroke.
