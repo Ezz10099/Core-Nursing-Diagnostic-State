@@ -42,6 +42,7 @@ Hidden gaps / active remediation:
 - opioid respiratory depression and naloxone: correct by elimination; needs application retest
 - hypoglycemia treatment: 15-g fast-acting carbohydrate rule, examples, recheck timing, glucagon/IV glucose distinction; needs application retest
 - urinary catheter drainage bag rationale (below bladder, off floor): concept clarified; needs later application check
+- AKI terminology and core recognition: AKI = acute kidney injury (also called acute renal failure in the Health Alterations text); understand abrupt kidney-function decline, creatinine/urine-output change, prerenal vs intrinsic vs postrenal causes, and urgent complications such as hyperkalemia/fluid overload; needs application retest
 - ACS vocabulary and practical distinction: unstable angina vs NSTEMI vs STEMI
 - ECG electrical basics now under remediation: P wave, QRS complex, T wave, ST segment, why acute myocardial injury can shift the ST segment, and why STEMI vs NSTEMI changes urgency/pathway; needs application/recognition retest
 - life-threatening acute chest pain differentials: ACS, aortic dissection, PE, tension pneumothorax, tamponade
