@@ -56,23 +56,24 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Next diagnostic/retest priorities
-1. Department-specific readiness for the nearest internship rotation now takes priority over full ABCDE remediation.
-2. Hypoglycemia treatment and glucagon.
-3. Opioid respiratory depression/naloxone.
-4. Hypertensive emergency, hypothermia, heat stroke.
-5. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
-6. ECG acquisition/lead logic and placement.
-7. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
+1. Department-specific readiness for General/Internal Medicine now takes priority over full ABCDE remediation.
+2. Build a department-specific Internal Medicine readiness map, using diagnostics first to avoid re-teaching already strong material.
+3. Hypoglycemia treatment and glucagon.
+4. Opioid respiratory depression/naloxone.
+5. Hypertensive emergency, hypothermia, heat stroke.
+6. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
+7. ECG acquisition/lead logic and placement.
+8. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
 
 ## Internship rotation readiness plan
 - The learner reports an upcoming 600-hour nursing internship across multiple hospital departments with some choice over rotations.
 - The learner has already completed undergraduate clinical placements in all of the previously discussed departments and additional departments during the BSN; internship rotations are therefore not first exposure to those environments.
 - Departments believed definitely available: General/Internal Medicine, Emergency Department, General Surgery/postoperative ward, ICU, and Orthopedics. Other departments likely exist but availability for internship is not yet confirmed.
 - Availability currently uncertain for Pediatrics, Maternity/Obstetrics, Renal/Dialysis, Psychiatry, and Burns.
+- Rotation plan is locked until further notice: begin with General/Internal Medicine; likely follow with Emergency Department, General Surgery/postoperative ward, ICU, then Orthopedics, while inserting other rotations only if availability or requirements later change.
 - Current planning goal: prepare department-by-department, with the nearest/first internship rotation receiving highest study priority.
-- Recommended core sequence using only currently reliable options: 1) General/Internal Medicine, 2) Emergency Department, 3) General Surgery/postoperative ward, 4) ICU, 5) Orthopedics. Burns should be inserted before ICU or near Surgery if it becomes available because of its distinctive airway/fluid/wound/infection demands. Renal/Dialysis is a valuable substitution/addition after Internal Medicine if available; Maternity/Obstetrics, Pediatrics, and Psychiatry are useful for breadth but should not drive current preparation until availability is confirmed.
-- Rationale: Internal Medicine remains the best first transition into internship-level responsibility because it concentrates medication administration, IV care, assessment, documentation, common conditions and deterioration recognition. Prior undergraduate exposure allows Emergency to move earlier. Surgery consolidates postoperative/wound/drain/procedural care. ICU is best after broader acute-care consolidation. Orthopedics adds neurovascular assessment, compartment-syndrome recognition, casts/traction, mobility/fall safety and DVT prevention.
-- Current preparation priority: General/Internal Medicine readiness. Full ABCDE intervention-library remediation is temporarily deferred until closer to Emergency/critical-care preparation, although essential deterioration recognition remains embedded in all department-specific study.
+- Internal Medicine is now the active study priority. Preparation should focus on must-know ward nursing knowledge rather than complete textbook coverage, especially assessment, deterioration recognition, common medical conditions, medication/IV safety, oxygen therapy, fluid balance, diabetes, cardiovascular/respiratory problems, infection/sepsis, renal/electrolyte issues, common procedures, patient safety, and SBAR/documentation.
+- Full ABCDE intervention-library remediation is temporarily deferred until closer to Emergency/critical-care preparation, although essential deterioration recognition remains embedded in Internal Medicine study.
 
 ## Automatic GitHub workflow
 - This GitHub file is the single canonical live progress record.
