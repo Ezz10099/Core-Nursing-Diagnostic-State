@@ -78,8 +78,18 @@ Hidden gaps / active remediation:
 - temperature interpretation: fever vs high fever vs hyperthermia, with route/context dependence
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
+## Day-1 Medication Readiness Sprint
+- The learner’s first internship shift is tomorrow morning (2026-08-24) and the learner reports feeling specifically underprepared for medications.
+- Immediate goal is minimum safe Day-1 medication readiness rather than broad pharmacology coverage.
+- A rapid basic review has already covered eight common medications: paracetamol, ceftriaxone, metronidazole, omeprazole, furosemide, enoxaparin, insulin, and salbutamol.
+- Continue using the same compressed clinical format: what it is → why given → what to check before giving → essential administration point → main immediate danger → short mental shortcut.
+- Prioritize medication knowledge that can prevent a nursing error or patient harm. Do not expand into full monographs, exhaustive adverse-effect lists, or uncommon specialist detail.
+- Current high-priority medication-safety emphasis among the eight: insulin (high-alert; exact product/type, current glucose, meal/timing when relevant, hypoglycaemia, medication mix-ups), enoxaparin (high-alert anticoagulant; active bleeding, platelet/HIT history, renal function/dose appropriateness, bleeding), and furosemide (BP, volume status, urine output, renal function/electrolytes, dehydration/hypotension/electrolyte depletion).
+- Known learner gaps should be integrated where relevant: hypoglycaemia treatment/glucagon, severe hyperkalaemia treatment logic, AKI/fluid overload, pulmonary oedema/heart failure, and opioid respiratory depression/naloxone.
+- Teaching approach for this sprint: short stepwise micro-blocks followed by one-at-a-time clinical checks; do not give a large medication dump.
+
 ## Next diagnostic/retest priorities
-1. Immediate preparation for the learner’s first actual internship department now overrides the earlier generic Internal Medicine-first study plan.
+1. Tonight: minimum safe Day-1 medication readiness for the eight already reviewed medications, starting with the highest-risk error-prone drugs and universal medication-safety checks.
 2. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
 3. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 4. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
