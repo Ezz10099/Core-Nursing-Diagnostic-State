@@ -93,11 +93,13 @@ Hidden gaps / active remediation:
 - Teaching approach for this sprint: rapid micro-blocks with occasional high-yield checks, not a large pharmacology lecture.
 - Offline Day-1 medication PDF Batch 01 completed: paracetamol, diclofenac, ceftriaxone.
 - Offline Day-1 medication PDF Batch 02 completed: metronidazole, cefazolin, omeprazole.
-- Next offline medication PDF batch should continue with furosemide, enoxaparin, and insulin unless the learner changes the sequence.
+- Offline Day-1 medication PDF Batch 03 completed: furosemide, enoxaparin, insulin essentials.
+- Offline Day-1 medication PDF Batch 04 completed: salbutamol, aspirin, clopidogrel.
+- Next offline medication PDF batch should continue with amlodipine, enalapril, and carvedilol unless the learner changes the sequence.
 
 ## Next diagnostic/retest priorities
 1. Tonight: rapid minimum-safe Day-1 medication coverage of common hospital drugs, using the clarified bedside-administration format above and highest-risk error-prevention points first.
-2. Continue offline PDF batching; next planned Batch 03 = furosemide + enoxaparin + insulin.
+2. Continue offline PDF batching; next planned Batch 05 = amlodipine + enalapril + carvedilol.
 3. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
 4. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 5. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
