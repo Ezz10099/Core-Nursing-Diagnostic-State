@@ -79,25 +79,18 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Next diagnostic/retest priorities
-1. Continue department-specific General/Internal Medicine readiness.
-2. Immediate focused remediation/retest within Internal Medicine: DKA vs HHS, acute heart failure/pulmonary oedema, AKI-associated hyperkalaemia, fluid overload during IV therapy.
-3. Hypoglycemia treatment and glucagon.
-4. Opioid respiratory depression/naloxone.
-5. Hypertensive emergency, hypothermia, heat stroke.
-6. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
-7. ECG acquisition/lead logic and placement.
-8. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
-9. Remediate, then retest the remaining external five-item priority set items not already being covered through Internal Medicine preparation: TBI/herniation recognition, DKA potassium safety, and chest-tube air-leak troubleshooting.
+1. Immediate preparation for the learner’s first actual internship department now overrides the earlier generic Internal Medicine-first study plan.
+2. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
+3. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
+4. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
 
 ## Internship rotation readiness plan
-- The learner reports an upcoming 600-hour nursing internship across multiple hospital departments with some choice over rotations.
-- The learner has already completed undergraduate clinical placements in all of the previously discussed departments and additional departments during the BSN; internship rotations are therefore not first exposure to those environments.
-- Departments believed definitely available: General/Internal Medicine, Emergency Department, General Surgery/postoperative ward, ICU, and Orthopedics. Other departments likely exist but availability for internship is not yet confirmed.
-- Availability currently uncertain for Pediatrics, Maternity/Obstetrics, Renal/Dialysis, Psychiatry, and Burns.
-- Rotation plan is locked until further notice: begin with General/Internal Medicine; likely follow with Emergency Department, General Surgery/postoperative ward, ICU, then Orthopedics, while inserting other rotations only if availability or requirements later change.
-- Current planning goal: prepare department-by-department, with the nearest/first internship rotation receiving highest study priority.
-- Internal Medicine is now the active study priority. Preparation should focus on must-know ward nursing knowledge rather than complete textbook coverage, especially assessment, deterioration recognition, common medical conditions, medication/IV safety, oxygen therapy, fluid balance, diabetes, cardiovascular/respiratory problems, infection/sepsis, renal/electrolyte issues, common procedures, patient safety, and SBAR/documentation.
-- Full ABCDE intervention-library remediation is temporarily deferred until closer to Emergency/critical-care preparation, although essential deterioration recognition remains embedded in Internal Medicine study.
+- The learner’s 600-hour BSN internship begins tomorrow (2026-08-24).
+- New information from the internship program suggests choices are grouped approximately as follows: a Med-Surg slot/options including Orthopedics and General Surgery, with Burns or General/Internal Medicine possibly available but less certain; a specialty slot of Renal/Kidney versus Cardiac/Heart; and an acute-care slot of Emergency Department versus ICU.
+- Earlier assumption that General/Internal Medicine would definitely be the first rotation is superseded by this new information.
+- Current recommended choices for broad internship/job readiness, if all listed options are genuinely available and there are no mandatory-hour constraints: Med-Surg: General/Internal Medicine if unexpectedly available; otherwise General Surgery preferred over Burns for breadth, and Burns preferred over Orthopedics for more distinctive acute-care exposure if the learner values breadth. Specialty: Cardiac/Heart preferred over Renal/Kidney for broad acute-care relevance, while Renal remains highly valuable for fluids/electrolytes/AKI/dialysis. Acute care: Emergency preferred over ICU for broader first-response, triage, prioritization, common procedures, and exposure to undifferentiated patients; ICU is a strong later/deeper option.
+- If the learner can choose the order, preferred sequence for readiness is a broad ward foundation first (General/Internal Medicine if available, otherwise General Surgery), then Cardiac/Heart, then Emergency. This sequencing may be changed immediately if the actual hospital assignment differs.
+- The learner has prior undergraduate clinical exposure to these hospital areas, so the goal is not basic orientation but rapid internship-level readiness: recognizing deterioration, safe first actions, medication/IV safety, common procedures, escalation, reassessment, handover, and department-specific hazards.
 
 ## Automatic GitHub workflow
 - This GitHub file is the single canonical live progress record.
