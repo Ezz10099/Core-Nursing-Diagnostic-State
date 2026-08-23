@@ -1,5 +1,5 @@
 # Core Nursing Diagnostic — Master Progress / Weakness Map
-Date updated: 2026-08-22
+Date updated: 2026-08-23
 
 ## Tracking rules
 - Correct + confident + correct reasoning: strong/provisional mastery; reduce immediate retesting.
@@ -44,6 +44,11 @@ Hidden gaps / active remediation:
 - urinary catheter drainage bag rationale (below bladder, off floor): concept clarified; needs later application check
 - AKI terminology and core recognition: AKI = acute kidney injury (also called acute renal failure in the Health Alterations text); understand abrupt kidney-function decline, creatinine/urine-output change, prerenal vs intrinsic vs postrenal causes, and urgent complications such as hyperkalemia/fluid overload; needs application retest
 - HHS terminology and core recognition: HHS = hyperosmolar hyperglycemic state, a severe hyperglycemic emergency typically associated with type 2 diabetes and profound dehydration/hyperosmolality with little or no significant ketoacidosis; needs DKA-vs-HHS application retest
+- acute pulmonary oedema/left-sided heart failure priority reviewed in external MCQ set: severe hypoxaemia with diffuse crackles/pink frothy sputum requires immediate upright/high-Fowler positioning and oxygen/respiratory support before non-immediate tasks; needs application retest
+- severe hyperkalaemia with ECG changes reviewed in external MCQ set: IV calcium is the immediate cardiac-membrane protection step; insulin/glucose shifts potassium intracellularly afterward and other therapies remove potassium; needs application retest
+- DKA potassium safety reviewed in external MCQ set: current 2024 hyperglycaemic-crisis consensus recommends potassium replacement and delaying/holding insulin when K+ <3.5 mmol/L until K+ is >3.5; needs application retest
+- traumatic brain injury deterioration reviewed in external MCQ set: decreasing consciousness plus unequal pupils is a life-threatening brain mass/bleed pattern; hypertension with widened pulse pressure and bradycardia suggests Cushing response/impending herniation; needs application retest
+- chest-tube troubleshooting reviewed in external MCQ set: continuous bubbling in the water-seal chamber suggests an air leak; initial response is to assess/localize the leak, not routinely clamp the tube; needs application retest
 - ACS vocabulary and practical distinction: unstable angina vs NSTEMI vs STEMI
 - ECG electrical basics now under remediation: P wave, QRS complex, T wave, ST segment, why acute myocardial injury can shift the ST segment, and why STEMI vs NSTEMI changes urgency/pathway; needs application/recognition retest
 - life-threatening acute chest pain differentials: ACS, aortic dissection, PE, tension pneumothorax, tamponade
@@ -66,6 +71,7 @@ Hidden gaps / active remediation:
 6. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
 7. ECG acquisition/lead logic and placement.
 8. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
+9. Retest the external five-item priority set: pulmonary oedema first action, hyperkalaemia cardiac protection, TBI/herniation recognition, DKA potassium safety, and chest-tube air-leak troubleshooting.
 
 ## Internship rotation readiness plan
 - The learner reports an upcoming 600-hour nursing internship across multiple hospital departments with some choice over rotations.
