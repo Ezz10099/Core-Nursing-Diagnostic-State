@@ -38,6 +38,21 @@ Strong/provisional mastery:
 - sepsis/deterioration recognition
 - correctly recognized the DRABC initial first-aid sequence: Danger, Response, Airway, Breathing, Circulation
 
+### Internal Medicine Rapid Diagnostic 1
+Strong/provisional mastery from this block (no immediate retest unless later integrated scenario reveals weak reasoning):
+- COPD: new drowsiness/confusion with worsening breathing = acute deterioration red flag
+- severe symptomatic hyponatremia: seizure/confusion with Na 118 mmol/L requires urgent escalation
+- anticoagulant + melena + hypotension/tachycardia = possible major GI bleed/shock; urgent assessment/escalation before further anticoagulant administration
+- heart-failure fluid monitoring: daily weight under similar conditions is the most useful routine short-term fluid trend
+- pneumonia with rising oxygen need/tachypnoea/new confusion = acute deterioration
+- prioritization: new confusion + RR 32 + SpO2 88% despite oxygen is highest priority
+
+New/confirmed gaps from this block:
+- acute heart failure/pulmonary oedema first nursing response: learner chose correctly only because options allowed elimination; hidden knowledge gap. Needs recognition of orthopnoea, bilateral crackles/hypoxaemia, upright positioning, oxygen when hypoxic, urgent reassessment/escalation, and avoidance of reflex fluid administration; retest needed.
+- DKA recognition: learner selected “stable type 2 diabetes” despite hyperglycaemia, dehydration, nausea/abdominal pain and deep rapid breathing. No uncertainty reported, so classify as misconception under current confidence rules. Needs DKA-vs-HHS pattern recognition and explanation of Kussmaul breathing/acidosis; high-priority remediation and retest.
+- AKI with severe hyperkalaemia and ECG changes: learner was unsure between non-urgent AKI and dehydration distractors rather than recognizing life-threatening hyperkalaemia. Clear knowledge gap. Reinforce AKI → impaired potassium excretion; ECG changes make hyperkalaemia an emergency; IV calcium protects myocardium while insulin/glucose shifts K intracellularly; retest needed.
+- IV-fluid-related fluid overload: learner guessed the correct interpretation and would not have identified it without options. Hidden knowledge gap. Needs pattern recognition: decreasing urine output + peripheral oedema + bilateral crackles during IV fluids = fluid accumulation/possible renal or cardiac inability to handle volume; assess breathing/SpO2, review infusion, monitor I&O/weight, and escalate; retest needed.
+
 Hidden gaps / active remediation:
 - opioid respiratory depression and naloxone: correct by elimination; needs application retest
 - hypoglycemia treatment: 15-g fast-acting carbohydrate rule, examples, recheck timing, glucagon/IV glucose distinction; needs application retest
@@ -64,15 +79,15 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Next diagnostic/retest priorities
-1. Department-specific readiness for General/Internal Medicine now takes priority over full ABCDE remediation.
-2. Build a department-specific Internal Medicine readiness map, using diagnostics first to avoid re-teaching already strong material.
+1. Continue department-specific General/Internal Medicine readiness.
+2. Immediate focused remediation/retest within Internal Medicine: DKA vs HHS, acute heart failure/pulmonary oedema, AKI-associated hyperkalaemia, fluid overload during IV therapy.
 3. Hypoglycemia treatment and glucagon.
 4. Opioid respiratory depression/naloxone.
 5. Hypertensive emergency, hypothermia, heat stroke.
 6. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
 7. ECG acquisition/lead logic and placement.
 8. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
-9. Remediate, then retest the external five-item priority set: pulmonary oedema first action, hyperkalaemia cardiac protection, TBI/herniation recognition, DKA potassium safety, and chest-tube air-leak troubleshooting.
+9. Remediate, then retest the remaining external five-item priority set items not already being covered through Internal Medicine preparation: TBI/herniation recognition, DKA potassium safety, and chest-tube air-leak troubleshooting.
 
 ## Internship rotation readiness plan
 - The learner reports an upcoming 600-hour nursing internship across multiple hospital departments with some choice over rotations.
