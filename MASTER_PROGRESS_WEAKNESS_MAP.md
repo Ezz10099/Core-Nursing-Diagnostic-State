@@ -91,12 +91,16 @@ Hidden gaps / active remediation:
 - Insulin meal-timing clinical check completed correctly and confidently: for rapid-acting nutritional insulin when breakfast is delayed, coordinate/verify meal and insulin timing before administration rather than giving automatically or altering/cancelling the dose independently. Treat this specific safety point as strong/provisional mastery.
 - Known learner gaps should be integrated where relevant: hypoglycaemia treatment/glucagon, severe hyperkalaemia treatment logic, AKI/fluid overload, pulmonary oedema/heart failure, and opioid respiratory depression/naloxone.
 - Teaching approach for this sprint: rapid micro-blocks with occasional high-yield checks, not a large pharmacology lecture.
+- Offline Day-1 medication PDF Batch 01 completed: paracetamol, diclofenac, ceftriaxone.
+- Offline Day-1 medication PDF Batch 02 completed: metronidazole, cefazolin, omeprazole.
+- Next offline medication PDF batch should continue with furosemide, enoxaparin, and insulin unless the learner changes the sequence.
 
 ## Next diagnostic/retest priorities
 1. Tonight: rapid minimum-safe Day-1 medication coverage of common hospital drugs, using the clarified bedside-administration format above and highest-risk error-prevention points first.
-2. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
-3. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
-4. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
+2. Continue offline PDF batching; next planned Batch 03 = furosemide + enoxaparin + insulin.
+3. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
+4. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
+5. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
 
 ## Internship rotation readiness plan
 - The learner’s 600-hour BSN internship begins tomorrow (2026-08-24).
