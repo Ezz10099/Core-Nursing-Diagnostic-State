@@ -82,14 +82,16 @@ Hidden gaps / active remediation:
 - The learner’s first internship shift is tomorrow morning (2026-08-24) and the learner reports feeling specifically underprepared for medications.
 - Immediate goal is minimum safe Day-1 medication readiness rather than broad pharmacology coverage.
 - A rapid basic review has already covered eight common medications: paracetamol, ceftriaxone, metronidazole, omeprazole, furosemide, enoxaparin, insulin, and salbutamol.
-- Continue using the same compressed clinical format: what it is → why given → what to check before giving → essential administration point → main immediate danger → short mental shortcut.
+- Continue using an even more compressed clinical format: drug/class → why given → one or two critical pre-give checks → one essential administration point → main immediate danger → one-line mental shortcut. The learner explicitly wants faster, shorter, simpler explanations and rapid coverage of common hospital medications.
+- Add Gaza/PCN trade names only when previously confirmed or otherwise clearly distinguish them from merely common international brands; do not guess local stock names.
 - Prioritize medication knowledge that can prevent a nursing error or patient harm. Do not expand into full monographs, exhaustive adverse-effect lists, or uncommon specialist detail.
 - Current high-priority medication-safety emphasis among the eight: insulin (high-alert; exact product/type, current glucose, meal/timing when relevant, hypoglycaemia, medication mix-ups), enoxaparin (high-alert anticoagulant; active bleeding, platelet/HIT history, renal function/dose appropriateness, bleeding), and furosemide (BP, volume status, urine output, renal function/electrolytes, dehydration/hypotension/electrolyte depletion).
+- Insulin meal-timing clinical check completed correctly and confidently: for rapid-acting nutritional insulin when breakfast is delayed, coordinate/verify meal and insulin timing before administration rather than giving automatically or altering/cancelling the dose independently. Treat this specific safety point as strong/provisional mastery.
 - Known learner gaps should be integrated where relevant: hypoglycaemia treatment/glucagon, severe hyperkalaemia treatment logic, AKI/fluid overload, pulmonary oedema/heart failure, and opioid respiratory depression/naloxone.
-- Teaching approach for this sprint: short stepwise micro-blocks followed by one-at-a-time clinical checks; do not give a large medication dump.
+- Teaching approach for this sprint: rapid micro-blocks with occasional high-yield checks, not a large pharmacology lecture.
 
 ## Next diagnostic/retest priorities
-1. Tonight: minimum safe Day-1 medication readiness for the eight already reviewed medications, starting with the highest-risk error-prone drugs and universal medication-safety checks.
+1. Tonight: rapid minimum-safe Day-1 medication coverage of common hospital drugs, with highest-risk error-prevention points first.
 2. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
 3. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 4. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
