@@ -44,6 +44,7 @@ Hidden gaps / active remediation:
 - urinary catheter drainage bag rationale (below bladder, off floor): concept clarified; needs later application check
 - AKI terminology and core recognition: AKI = acute kidney injury (also called acute renal failure in the Health Alterations text); understand abrupt kidney-function decline, creatinine/urine-output change, prerenal vs intrinsic vs postrenal causes, and urgent complications such as hyperkalemia/fluid overload; needs application retest
 - HHS terminology and core recognition: HHS = hyperosmolar hyperglycemic state, a severe hyperglycemic emergency typically associated with type 2 diabetes and profound dehydration/hyperosmolality with little or no significant ketoacidosis; needs DKA-vs-HHS application retest
+- External five-item priority set (acute pulmonary oedema, severe hyperkalaemia with ECG changes, TBI/herniation, DKA with hypokalaemia, chest-tube air leak): learner reports they would not have been able to solve any item independently with fully correct, confident reasoning; treat all five as genuine knowledge gaps requiring remediation and later application retest, regardless of whether some choices might have been guessed correctly.
 - acute pulmonary oedema/left-sided heart failure priority reviewed in external MCQ set: severe hypoxaemia with diffuse crackles/pink frothy sputum requires immediate upright/high-Fowler positioning and oxygen/respiratory support before non-immediate tasks; needs application retest
 - severe hyperkalaemia with ECG changes reviewed in external MCQ set: IV calcium is the immediate cardiac-membrane protection step; insulin/glucose shifts potassium intracellularly afterward and other therapies remove potassium; needs application retest
 - DKA potassium safety reviewed in external MCQ set: current 2024 hyperglycaemic-crisis consensus recommends potassium replacement and delaying/holding insulin when K+ <3.5 mmol/L until K+ is >3.5; needs application retest
@@ -71,7 +72,7 @@ Hidden gaps / active remediation:
 6. Acute chest-pain differentiation plus ECG P-QRS-T/ST-segment recognition at nurse level.
 7. ECG acquisition/lead logic and placement.
 8. Return to full DRABC-to-ABCDE operational scenario training later; this remains an important unresolved practical gap but is intentionally deferred for now.
-9. Retest the external five-item priority set: pulmonary oedema first action, hyperkalaemia cardiac protection, TBI/herniation recognition, DKA potassium safety, and chest-tube air-leak troubleshooting.
+9. Remediate, then retest the external five-item priority set: pulmonary oedema first action, hyperkalaemia cardiac protection, TBI/herniation recognition, DKA potassium safety, and chest-tube air-leak troubleshooting.
 
 ## Internship rotation readiness plan
 - The learner reports an upcoming 600-hour nursing internship across multiple hospital departments with some choice over rotations.
