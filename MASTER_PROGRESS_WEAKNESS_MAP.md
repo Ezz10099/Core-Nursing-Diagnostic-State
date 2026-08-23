@@ -96,12 +96,13 @@ Hidden gaps / active remediation:
 - Offline Day-1 medication PDF Batch 03 completed: furosemide, enoxaparin, insulin essentials.
 - Offline Day-1 medication PDF Batch 04 completed: salbutamol, aspirin, clopidogrel.
 - Offline Day-1 medication PDF Batch 05 completed: amlodipine, enalapril, carvedilol.
-- Batch 05 used current Palestinian MoH essential-medicines data to confirm these generics/forms in the Palestinian public-sector list and current 2026 DailyMed labels for bedside safety points. Famous international brand names were explicitly distinguished from unverified Gaza stock brands.
-- Next offline medication PDF batch should continue with spironolactone, metoclopramide, and ondansetron unless the learner changes the sequence.
+- Offline Day-1 medication PDF Batch 06 completed: spironolactone, metoclopramide, ondansetron.
+- Offline Day-1 medication PDF Batch 07 completed: hydrocortisone, dexamethasone, tramadol.
+- Batch 07 used the current Palestinian MoH essential-medicines/registered-products/controlled-drug sources plus current 2026 DailyMed labels and a current tramadol injection SmPC. Local product names were only used when directly supported; unverified Gaza stock brands were not asserted.
 
 ## Next diagnostic/retest priorities
 1. Tonight: rapid minimum-safe Day-1 medication coverage of common hospital drugs, using the clarified bedside-administration format above and highest-risk error-prevention points first.
-2. Continue offline PDF batching; next planned Batch 06 = spironolactone + metoclopramide + ondansetron.
+2. Continue offline PDF batching; next planned Batch 08 = morphine + potassium chloride (KCl) + calcium gluconate.
 3. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
 4. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 5. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
