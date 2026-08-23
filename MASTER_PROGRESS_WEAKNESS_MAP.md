@@ -99,10 +99,12 @@ Hidden gaps / active remediation:
 - Offline Day-1 medication PDF Batch 06 completed: spironolactone, metoclopramide, ondansetron.
 - Offline Day-1 medication PDF Batch 07 completed: hydrocortisone, dexamethasone, tramadol.
 - Batch 07 used the current Palestinian MoH essential-medicines/registered-products/controlled-drug sources plus current 2026 DailyMed labels and a current tramadol injection SmPC. Local product names were only used when directly supported; unverified Gaza stock brands were not asserted.
+- Offline Day-1 medication PDF Batch 08 completed: morphine, potassium chloride (KCl), calcium gluconate.
+- Batch 08 reinforced active safety gaps: opioid respiratory depression/naloxone logic through morphine; severe hyperkalaemia cardiac-protection logic through calcium gluconate; and the high-risk KCl rule that concentrated potassium must never be given IV push or undiluted.
 
 ## Next diagnostic/retest priorities
 1. Tonight: rapid minimum-safe Day-1 medication coverage of common hospital drugs, using the clarified bedside-administration format above and highest-risk error-prevention points first.
-2. Continue offline PDF batching; next planned Batch 08 = morphine + potassium chloride (KCl) + calcium gluconate.
+2. Continue offline PDF batching; next planned Batch 09 = adrenaline/epinephrine + normal saline 0.9% + Lactated Ringer's.
 3. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
 4. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 5. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
