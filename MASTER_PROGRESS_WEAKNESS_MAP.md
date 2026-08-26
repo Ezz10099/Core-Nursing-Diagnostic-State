@@ -1,5 +1,5 @@
 # Core Nursing Diagnostic — Master Progress / Weakness Map
-Date updated: 2026-08-23
+Date updated: 2026-08-26
 
 ## Tracking rules
 - Correct + confident + correct reasoning: strong/provisional mastery; reduce immediate retesting.
@@ -81,17 +81,12 @@ Hidden gaps / active remediation:
 - 12-lead ECG: 10 electrodes / 12 views, limb-lead meaning, chest placement; practical skill reinforcement
 
 ## Day-1 Medication Readiness Sprint
-- The learner’s first internship shift is tomorrow morning (2026-08-24) and the learner reports feeling specifically underprepared for medications.
-- Immediate goal is minimum safe Day-1 medication readiness rather than broad pharmacology coverage.
-- A rapid basic review has already covered eight common medications: paracetamol, ceftriaxone, metronidazole, omeprazole, furosemide, enoxaparin, insulin, and salbutamol.
-- Final preferred per-drug format for this sprint is now clarified: generic name + famous/local trade name when reliably known; drug class; main common clinical use(s); practical route/how it is given, including only essential dilution/rate/timing points that prevent harm; common or safety-critical contraindications/hold situations that a nurse must recognize; common important adverse effects and any immediate dangerous effect that requires stopping/escalation; one or two drug-specific checks before administration when these materially change safety. Do not force every drug into identical fields if a field is not clinically important.
+- Initial goal was minimum safe Day-1 medication readiness rather than broad pharmacology coverage.
+- Final preferred per-drug format for this sprint: generic name + famous/local trade name when reliably known; drug class; main common clinical use(s); practical route/how it is given, including only essential dilution/rate/timing points that prevent harm; common or safety-critical contraindications/hold situations that a nurse must recognize; common important adverse effects and any immediate dangerous effect that requires stopping/escalation; one or two drug-specific checks before administration when these materially change safety.
 - The learner does NOT want overly compressed one-line shortcuts that omit practical administration, contraindications, or meaningful adverse effects, and does NOT want full monographs or long side-effect lists. Aim for the minimum complete bedside profile an intern needs before administering the medication.
 - Add Gaza/PCN trade names only when previously confirmed or otherwise clearly distinguish them from merely common international brands; do not guess local stock names.
-- Do not make dose memorization a Day-1 requirement for routine medications; the nurse should verify the current order, product strength/concentration, route, patient, timing, and applicable local protocol. Include exact dose/rate only when it is a high-frequency safety-critical rule or needed to prevent a common error.
-- Current high-priority medication-safety emphasis among the eight: insulin (high-alert; exact product/type, current glucose, meal/timing when relevant, hypoglycaemia, medication mix-ups), enoxaparin (high-alert anticoagulant; active bleeding, platelet/HIT history, renal function/dose appropriateness, bleeding), and furosemide (BP, volume status, urine output, renal function/electrolytes, dehydration/hypotension/electrolyte depletion).
+- Do not make dose memorization a Day-1 requirement for routine medications; verify the current order, product strength/concentration, route, patient, timing, indication, allergies, and local protocol. Include exact dose/rate only when it is a high-frequency safety-critical rule or needed to prevent a common error.
 - Insulin meal-timing clinical check completed correctly and confidently: for rapid-acting nutritional insulin when breakfast is delayed, coordinate/verify meal and insulin timing before administration rather than giving automatically or altering/cancelling the dose independently. Treat this specific safety point as strong/provisional mastery.
-- Known learner gaps should be integrated where relevant: hypoglycaemia treatment/glucagon, severe hyperkalaemia treatment logic, AKI/fluid overload, pulmonary oedema/heart failure, and opioid respiratory depression/naloxone.
-- Teaching approach for this sprint: rapid micro-blocks with occasional high-yield checks, not a large pharmacology lecture.
 - Offline Day-1 medication PDF Batch 01 completed: paracetamol, diclofenac, ceftriaxone.
 - Offline Day-1 medication PDF Batch 02 completed: metronidazole, cefazolin, omeprazole.
 - Offline Day-1 medication PDF Batch 03 completed: furosemide, enoxaparin, insulin essentials.
@@ -99,24 +94,31 @@ Hidden gaps / active remediation:
 - Offline Day-1 medication PDF Batch 05 completed: amlodipine, enalapril, carvedilol.
 - Offline Day-1 medication PDF Batch 06 completed: spironolactone, metoclopramide, ondansetron.
 - Offline Day-1 medication PDF Batch 07 completed: hydrocortisone, dexamethasone, tramadol.
-- Batch 07 used the current Palestinian MoH essential-medicines/registered-products/controlled-drug sources plus current 2026 DailyMed labels and a current tramadol injection SmPC. Local product names were only used when directly supported; unverified Gaza stock brands were not asserted.
 - Offline Day-1 medication PDF Batch 08 completed: morphine, potassium chloride (KCl), calcium gluconate.
-- Batch 08 reinforced active safety gaps: opioid respiratory depression/naloxone logic through morphine; severe hyperkalaemia cardiac-protection logic through calcium gluconate; and the high-risk KCl rule that concentrated potassium must never be given IV push or undiluted.
+- Tier-1 batches 01-08 were merged into an independent offline complete PDF for use without internet.
+
+### CCU medication exposure — 2026-08-26
+- Actual first internship department is now confirmed as CCU (Coronary Care Unit); this supersedes the prior hypothetical rotation-choice planning for immediate study priorities.
+- Medications/entries observed in CCU Kardexes today: Vasocore/Vasocor, nitrates, Fraxaparin/Fraxiparine, Clexan/Clexane, Metcardium, ASA/aspirin, Plavix, Concor, Lipdix, Pantovere/Pantover, sliding-scale insulin, Farigm, heparin, dobutamine, norepinephrine, Lasix, Flagyl, ceftazidime, linezolid, Levoc/Levox, Medium, nystatin, omeprazole, Ventolin.
+- Immediate CCU medication priorities: antiplatelet therapy (aspirin + P2Y12 inhibitor), anticoagulants (UFH, enoxaparin, nadroparin), nitrates, beta-blockers, statin/lipid therapy once exact product is identified, diuretics, insulin correction, vasopressors/inotropes, and common ICU anti-infectives.
+- High-alert CCU focus: heparin/enoxaparin/nadroparin bleeding/HIT and non-interchangeability; norepinephrine continuous vasopressor infusion and extravasation/ischemia risk; dobutamine continuous inotrope infusion and arrhythmia/ischemia risk; insulin hypoglycaemia risk; furosemide BP/electrolyte/renal monitoring.
+- Local/brand-name uncertainty must not be guessed. Current unresolved or partially resolved Kardex names: Metcardium (may resemble Metocard/metoprolol but exact brand not verified), Lipdix (exact generic not verified), Farigm (exact generic not verified), Medium (exact generic not verified). Vasocor is documented in Palestinian-market literature as isosorbide-5-mononitrate but the user's spelling “Vasocore” should still be checked on the package. Pantover is a Palestinian Jerusalem Pharmaceuticals pantoprazole product; Levox is a Palestinian Jerusalem Pharmaceuticals levofloxacin product, so the handwritten “Levoc” may represent Levox but should be verified against the package.
+- CCU learning should now prioritize practical recognition of ACS medication bundles, contraindications that change bedside administration (bleeding, hypotension, bradycardia/heart block, PDE5 inhibitor use with nitrates, renal dysfunction), infusion-pump safety, hemodynamic monitoring, and drug-product/concentration verification.
 
 ## Next diagnostic/retest priorities
-1. Tonight: rapid minimum-safe Day-1 medication coverage of common hospital drugs, using the clarified bedside-administration format above and highest-risk error-prevention points first.
-2. Continue offline PDF batching; next planned Batch 09 = adrenaline/epinephrine + normal saline 0.9% + Lactated Ringer's.
-3. Once the first assigned/selected department is confirmed, run a department-specific must-know diagnostic and rapid remediation before broader study.
-4. Keep current high-priority gaps available for integration where relevant: acute pulmonary oedema/heart failure, AKI-associated hyperkalaemia, DKA/HHS, IV-fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
-5. Return to full DRABC/ABCDE operational training when preparing for Emergency/critical care or when the first department requires it.
+1. CCU-specific medication recognition and safe administration using the actual Kardex list, with emphasis on aspirin/clopidogrel, heparin/LMWH, nitrates, beta-blockers, furosemide, insulin, dobutamine and norepinephrine.
+2. ACS practical distinction and first-response reasoning: unstable angina vs NSTEMI vs STEMI, serial ECG/troponin logic, antithrombotic therapy, bleeding assessment and escalation.
+3. ECG/telemetry recognition: rate/rhythm, bradycardia/AV block, ischemic ST changes, and when to escalate.
+4. Acute HF/pulmonary oedema and cardiogenic-shock recognition, integrating oxygen/ventilation, diuresis, vasopressor/inotrope logic and reassessment.
+5. Severe hyperkalaemia/ECG-change recognition and the calcium-versus-insulin/glucose treatment logic.
+6. Continue active gaps as relevant to CCU: AKI/fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 
 ## Internship rotation readiness plan
-- The learner’s 600-hour BSN internship begins tomorrow (2026-08-24).
-- New information from the internship program suggests choices are grouped approximately as follows: a Med-Surg slot/options including Orthopedics and General Surgery, with Burns or General/Internal Medicine possibly available but less certain; a specialty slot of Renal/Kidney versus Cardiac/Heart; and an acute-care slot of Emergency Department versus ICU.
-- Earlier assumption that General/Internal Medicine would definitely be the first rotation is superseded by this new information.
-- Current recommended choices for broad internship/job readiness, if all listed options are genuinely available and there are no mandatory-hour constraints: Med-Surg: General/Internal Medicine if unexpectedly available; otherwise General Surgery preferred over Burns for breadth, and Burns preferred over Orthopedics for more distinctive acute-care exposure if the learner values breadth. Specialty: Cardiac/Heart preferred over Renal/Kidney for broad acute-care relevance, while Renal remains highly valuable for fluids/electrolytes/AKI/dialysis. Acute care: Emergency preferred over ICU for broader first-response, triage, prioritization, common procedures, and exposure to undifferentiated patients; ICU is a strong later/deeper option.
-- If the learner can choose the order, preferred sequence for readiness is a broad ward foundation first (General/Internal Medicine if available, otherwise General Surgery), then Cardiac/Heart, then Emergency. This sequencing may be changed immediately if the actual hospital assignment differs.
-- The learner has prior undergraduate clinical exposure to these hospital areas, so the goal is not basic orientation but rapid internship-level readiness: recognizing deterioration, safe first actions, medication/IV safety, common procedures, escalation, reassessment, handover, and department-specific hazards.
+- Internship schedule began 2026-08-24; by 2026-08-26 the first actual assigned department is confirmed as CCU (Coronary Care Unit).
+- Immediate readiness plan is therefore CCU-specific rather than based on hypothetical department selection.
+- Prior broader rotation recommendations remain background only for later placements.
+- CCU priority skills: continuous vital-sign/telemetry assessment, ECG acquisition/recognition, ACS and heart-failure deterioration recognition, safe antiplatelet/anticoagulant administration, infusion-pump setup for vasoactive/inotropic drugs, IV medication/compatibility safety, oxygen therapy, accurate I&O, bleeding checks, escalation, reassessment, handover and narrative nursing documentation.
+- The learner has prior undergraduate clinical exposure, so the goal is rapid internship-level readiness rather than basic orientation.
 
 ## Automatic GitHub workflow
 - This GitHub file is the single canonical live progress record.
