@@ -1,5 +1,5 @@
 # Core Nursing Diagnostic — Master Progress / Weakness Map
-Date updated: 2026-08-26
+Date updated: 2026-08-30
 
 ## Tracking rules
 - Correct + confident + correct reasoning: strong/provisional mastery; reduce immediate retesting.
@@ -63,6 +63,7 @@ Hidden gaps / active remediation:
 - cardiac biomarker reference ranges: learner requested the normal CK-MB value. CK-MB has no single universal normal cutoff because the reference interval depends on whether the laboratory reports CK-MB mass, activity, or a relative index and on the assay used. Current laboratory examples vary substantially, so interpretation must use the local lab's printed reference interval and units; reinforce this before relying on a memorized number.
 - blood collection tubes: learner is unsure whether EDTA is in a red chemistry tube or the CBC tube and whether tubes are shaken to prevent clotting. Remediate standard tube/additive logic: EDTA is typically in lavender/purple-top hematology tubes for CBC and prevents clotting by binding calcium; red-top serum tubes do not use EDTA and are intended to clot. Additive tubes are gently inverted per manufacturer/lab instructions, not vigorously shaken; local tube colors/additives can vary and should be checked against facility/lab policy.
 - clinical acronym terminology clarification: PICC = peripherally inserted central catheter; CVC = central venous catheter; AVPU = Alert, Voice, Pain, Unresponsive. JP (Jackson-Pratt) and Hemovac are closed-suction surgical drains rather than acronyms of the same type; reinforce device recognition and use in later skills review.
+- syncope/syncopal attack: learner encountered this diagnosis in current clinical exposure and requested must-know teaching. Treat as an active knowledge gap. Remediation focus: syncope is a brief transient loss of consciousness with spontaneous recovery, caused by transient cerebral hypoperfusion; distinguish common reflex/vasovagal and orthostatic causes from high-risk cardiac causes; recognize red flags such as exertional or supine syncope, chest pain/dyspnoea, palpitations, abnormal ECG, known structural/ischemic heart disease, marked brady/tachycardia or hypotension, family history of sudden death, persistent neurologic deficit/confusion, bleeding or significant injury; first nursing response if the event is occurring is safety/fall protection, ABC assessment, pulse/BP/SpO2/mental status, bedside glucose, ECG/telemetry and escalation as indicated. Needs later application retest, especially in CCU arrhythmia/heart-block scenarios.
 - External five-item priority set (acute pulmonary oedema, severe hyperkalaemia with ECG changes, TBI/herniation, DKA with hypokalaemia, chest-tube air leak): learner reports they would not have been able to solve any item independently with fully correct, confident reasoning; treat all five as genuine knowledge gaps requiring remediation and later application retest, regardless of whether some choices might have been guessed correctly.
 - acute pulmonary oedema/left-sided heart failure priority reviewed in external MCQ set: severe hypoxaemia with diffuse crackles/pink frothy sputum requires immediate upright/high-Fowler positioning and oxygen/respiratory support before non-immediate tasks; needs application retest
 - severe hyperkalaemia with ECG changes reviewed in external MCQ set: IV calcium is the immediate cardiac-membrane protection step; insulin/glucose shifts potassium intracellularly afterward and other therapies remove potassium; needs application retest
@@ -113,10 +114,11 @@ Hidden gaps / active remediation:
 ## Next diagnostic/retest priorities
 1. CCU-specific medication recognition and safe administration using the actual Kardex list, with emphasis on aspirin/clopidogrel, heparin/LMWH, nitrates, beta-blockers, furosemide, dapagliflozin, insulin, dobutamine and norepinephrine.
 2. ACS practical distinction and first-response reasoning: unstable angina vs NSTEMI vs STEMI, serial ECG/troponin logic where available, antithrombotic therapy, bleeding assessment and escalation.
-3. ECG/telemetry recognition: rate/rhythm, bradycardia/AV block, ischemic ST changes, and when to escalate.
-4. Acute HF/pulmonary oedema and cardiogenic-shock recognition, integrating oxygen/ventilation, diuresis, vasopressor/inotrope logic and reassessment.
-5. Severe hyperkalaemia/ECG-change recognition and the calcium-versus-insulin/glucose treatment logic.
-6. Continue active gaps as relevant to CCU: AKI/fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
+3. Syncope/presyncope in CCU: distinguish benign reflex/orthostatic patterns from arrhythmic or structural cardiac syncope; integrate telemetry/ECG, vitals, bedside glucose, red-flag recognition and first nursing actions.
+4. ECG/telemetry recognition: rate/rhythm, bradycardia/AV block, ischemic ST changes, and when to escalate.
+5. Acute HF/pulmonary oedema and cardiogenic-shock recognition, integrating oxygen/ventilation, diuresis, vasopressor/inotrope logic and reassessment.
+6. Severe hyperkalaemia/ECG-change recognition and the calcium-versus-insulin/glucose treatment logic.
+7. Continue active gaps as relevant to CCU: AKI/fluid overload, hypoglycaemia/glucagon, opioid respiratory depression/naloxone.
 
 ## Internship rotation readiness plan
 - Internship schedule began 2026-08-24; by 2026-08-26 the first actual assigned department is confirmed as CCU (Coronary Care Unit).
